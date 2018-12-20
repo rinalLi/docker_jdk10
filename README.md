@@ -2,4 +2,4 @@
 jdk10 + supervisor
 
 
-docker push rinalli/jdk10
+docker pull rinalli/jdk10
